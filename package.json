@@ -1,0 +1,13 @@
+{
+  "name": "dashjs-pure",
+  "version": "1.0.0",
+  "description": "Pure dashjs package",
+  "main": "./dash.all.min.js",
+  "module": "./dash.all.min.js",
+  "types": "./dash.all.min.d.ts",
+  "keywords": [
+    "dash"
+  ],
+  "author": "Mister-Hope",
+  "license": "BSD"
+}
